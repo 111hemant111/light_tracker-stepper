@@ -1,6 +1,9 @@
 # Light Trackers
 This repo is dedicated for 3 individual implementations of light trackers using servo motor, stepper motor and a DC motor. An ambient light sensor fixed on top of the each motor's arm is used to track a flash light source. Refer to [schematics](/schematics) and [report files](/docs) for reference.
- 
+
+## Status
+Completed. Last update Jun 2018.
+
 ## Components used
 1. Arduino Uno
 2. DC Motor
@@ -11,9 +14,6 @@ This repo is dedicated for 3 individual implementations of light trackers using 
 7. L298N Motor driver (For DC motor)
 8. LEDs (For feedback)
 9. Misc. components
- 
-## Status
-Completed. Last update Jun 2018.
 
 ## License
 &copy; 2018 Hemant Kuruva
